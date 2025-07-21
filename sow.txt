@@ -1,3 +1,4 @@
 importing to remote repository
 learning about status virtual process 
 new branch demo
+stash demo
